@@ -3,9 +3,9 @@ Bundle-ManifestVersion: 2
 Bundle-Name: OWLIM-Lite
 Bundle-SymbolicName: com.ontotext.owlim.lite
 Bundle-Version: 5.4.0.qualifier
+Bundle-Vendor: enilink.net
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: lib/owlim-lite-5.4.jar
-Bundle-Vendor: Fraunhofer IWU
 Import-Package: info.aduna.io;version="2.0.0",
  info.aduna.iteration;version="2.0.0",
  info.aduna.lang;version="2.0.0",
